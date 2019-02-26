@@ -1,0 +1,10 @@
+/* Configuration Properties >> VC++ Directories >> Include Directories */
+C:\opencv\build\include;C:\opencv\build\include\opencv;C:\opencv\build\opencv2;
+/* Configuration Properties >> VC++ Directories >> Library Directories  */
+C:\opencv\build\x64\vc15\lib;
+
+/*Linker >> Input >> Additional Dependencies */
+/* Debug + x64 */
+opencv_world342d.lib;
+/* Release + x64 */
+opencv_world342.lib;
